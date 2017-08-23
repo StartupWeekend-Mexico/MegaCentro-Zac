@@ -1,0 +1,15 @@
+// General
+@import "_fonts";
+@import "_normalize";
+@import 'settings';
+@import "button";
+@import "fondos";
+// @import 'simple-grid';
+/* Errores */
+@import 'page404';
+@import 'old_browser';
+/* Cuerpo */
+@import 'header';
+@import 'section';
+@import 'forms';
+@import 'footer';
